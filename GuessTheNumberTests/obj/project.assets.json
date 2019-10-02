@@ -5961,11 +5961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj",
+      "projectUniqueName": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj",
       "projectName": "GuessTheNumberTests",
-      "projectPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj",
+      "projectPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj",
       "packagesPath": "C:\\Users\\Rory\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumberTests\\obj\\",
+      "outputPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumberTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5987,8 +5987,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj": {
-              "projectPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj"
+            "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj": {
+              "projectPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj"
             }
           }
         }

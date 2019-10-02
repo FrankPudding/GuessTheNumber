@@ -1,7 +1,5 @@
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\bin\Debug\GuessTheNumber.Classes.dll
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\bin\Debug\GuessTheNumber.Classes.pdb
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\bin\Debug\GuessTheNumber.Externals.dll
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\bin\Debug\GuessTheNumber.Externals.pdb
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\obj\Debug\GuessTheNumber.Classes.csprojAssemblyReference.cache
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\obj\Debug\GuessTheNumber.Classes.csproj.CoreCompileInputs.cache
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\obj\Debug\GuessTheNumber.Classes.csproj.CopyComplete

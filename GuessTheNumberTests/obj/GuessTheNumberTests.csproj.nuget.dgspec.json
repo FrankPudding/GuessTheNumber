@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj": {}
+    "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj": {
+    "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj",
+        "projectUniqueName": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj",
         "projectName": "GuessTheNumber.Classes",
-        "projectPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj",
+        "projectPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj"
+              "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj"
               }
             }
           }
@@ -24,25 +24,25 @@
         "net472": {}
       }
     },
-    "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj": {
+    "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj",
         "projectName": "GuessTheNumber.Contracts",
-        "projectPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj"
+        "projectPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Contracts\\GuessTheNumber.Contracts.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj": {
+    "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj",
+        "projectUniqueName": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj",
         "projectName": "GuessTheNumberTests",
-        "projectPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj",
+        "projectPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumberTests\\GuessTheNumberTests.csproj",
         "packagesPath": "C:\\Users\\Rory\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumberTests\\obj\\",
+        "outputPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumberTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -64,8 +64,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj": {
-                "projectPath": "C:\\Users\\Rory\\source\\repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj"
+              "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj": {
+                "projectPath": "C:\\Users\\Rory\\Source\\Repos\\GuessTheNumber\\GuessTheNumber.Classes\\GuessTheNumber.Classes.csproj"
               }
             }
           }

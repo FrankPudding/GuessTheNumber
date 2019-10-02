@@ -1,7 +1,4 @@
-﻿using System;
-using GuessTheNumber.Externals;
-
-namespace GuessTheNumber.Classes
+﻿namespace GuessTheNumber.Classes
 {
     public class GuessValidator
     {

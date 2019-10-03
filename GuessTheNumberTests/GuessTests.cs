@@ -8,41 +8,24 @@ namespace GuessTheNumberTests
     public class GuessTests
     {
         [Theory]
-        [InlineData(, )]
-        public void StartGameTest(int actualGuessNumber, int actualTarget, int actualNumberOfGuesses, int expectedGuessNumber, int expectedTarget, int expectedNumberOfGuesses)
+        [InlineData(1)]
+        public void StartGameTest(int actualTarget)
         {
-            actualGuess.StartGame(0);
+            var guess = new Guess(actualTarget, actualTarget, 0);
+            var guessEvaluator = new GuessEvaluator();
 
-            Assert.IsTrue(expectedGuess.Equals(actualGuess));
-        }
+            guess.StartGame(actualTarget);
 
-        [TestMethod]
-        public void EqualsTrueTest()
-        {
-            Guess actualGuess = new Guess(1, 2, 3);
-
-            Guess expectedGuess = new Guess(1, 2, 3);
-            
-            Assert.IsTrue(expectedGuess.Equals(actualGuess));
-            
-        }
-
-        [TestMethod]
-        public void EqualsFalseTest()
-        {
-            Guess actualGuess = new Guess(0, 2, 3);
-
-            Guess expectedGuess = new Guess(1, 2, 3);
-            Assert.IsFalse(expectedGuess.Equals(actualGuess));
+            Assert.IsTrue(guessEvaluator.IsCorrect(guess.GuessNumber, guess.Target));
         }
 
         // tests for guessevaluator and guessvalidator
 
-        // make interfaces for writers/readers
+        // make interfaces for writers/readers - done?
 
-        // mocking (interfaces)
+        // mocking (interfaces)??
 
-        // parameterize
+        // parameterize - done?
 
         // resharper/code coverage
     }

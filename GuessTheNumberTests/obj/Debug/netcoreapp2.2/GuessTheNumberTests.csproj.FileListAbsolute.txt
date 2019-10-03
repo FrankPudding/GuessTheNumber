@@ -7,12 +7,13 @@ C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcorea
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcoreapp2.2\GuessTheNumberTests.dll
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcoreapp2.2\GuessTheNumber.Classes.dll
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcoreapp2.2\GuessTheNumber.Contracts.dll
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcoreapp2.2\GuessTheNumber.Externals.dll
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcoreapp2.2\GuessTheNumber.Classes.pdb
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcoreapp2.2\GuessTheNumber.Contracts.pdb
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcoreapp2.2\GuessTheNumber.Externals.pdb
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\obj\Debug\netcoreapp2.2\GuessTheNumberTests.csprojAssemblyReference.cache
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\obj\Debug\netcoreapp2.2\GuessTheNumberTests.csproj.CoreCompileInputs.cache
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\obj\Debug\netcoreapp2.2\GuessTheNumberTests.AssemblyInfoInputs.cache
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\obj\Debug\netcoreapp2.2\GuessTheNumberTests.AssemblyInfo.cs
 C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumberTests\obj\Debug\netcoreapp2.2\GuessTheNumberTests.csproj.CopyComplete
+C:\Users\Rory\Source\Repos\GuessTheNumber\GuessTheNumberTests\bin\Debug\netcoreapp2.2\GuessTheNumberTests.pdb
+C:\Users\Rory\Source\Repos\GuessTheNumber\GuessTheNumberTests\obj\Debug\netcoreapp2.2\GuessTheNumberTests.dll
+C:\Users\Rory\Source\Repos\GuessTheNumber\GuessTheNumberTests\obj\Debug\netcoreapp2.2\GuessTheNumberTests.pdb

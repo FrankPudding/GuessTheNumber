@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "4777e54bb3e50071cbec3564ba7933371465ff38"
+    "signature": "27e31cb84b578d4177ed411184b1c22b3132adf3"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,7 +12,8 @@
           "MSTest.TestAdapter": "1.4.0",
           "MSTest.TestFramework": "1.4.0",
           "Microsoft.NET.Test.Sdk": "16.0.1",
-          "NUnit": "3.12.0"
+          "NUnit": "3.12.0",
+          "xunit.extensibility.core": "2.4.1"
         },
         "runtime": {
           "GuessTheNumberTests.dll": {}
@@ -1027,10 +1028,28 @@
           }
         }
       },
+      "xunit.abstractions/2.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/xunit.abstractions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "xunit.extensibility.core/2.4.1": {
+        "dependencies": {
+          "xunit.abstractions": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/xunit.core.dll": {
+            "assemblyVersion": "2.4.1.0",
+            "fileVersion": "2.4.1.0"
+          }
+        }
+      },
       "GuessTheNumber.Classes/1.0.0": {
         "dependencies": {
-          "GuessTheNumber.Contracts": "1.0.0",
-          "GuessTheNumber.Externals": "1.0.0"
+          "GuessTheNumber.Contracts": "1.0.0"
         },
         "runtime": {
           "GuessTheNumber.Classes.dll": {}
@@ -1039,14 +1058,6 @@
       "GuessTheNumber.Contracts/1.0.0": {
         "runtime": {
           "GuessTheNumber.Contracts.dll": {}
-        }
-      },
-      "GuessTheNumber.Externals/1.0.0": {
-        "dependencies": {
-          "GuessTheNumber.Contracts": "1.0.0"
-        },
-        "runtime": {
-          "GuessTheNumber.Externals.dll": {}
         }
       }
     }
@@ -1554,17 +1565,26 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
+    "xunit.abstractions/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pot1I4YOxlWjIb5jmwvvQNbTrZ3lJQ+jUGkGjWE3hEFM0l5gOnBWS+H3qsex68s5cO52g+44vpGzhAt+42vwKg==",
+      "path": "xunit.abstractions/2.0.3",
+      "hashPath": "xunit.abstractions.2.0.3.nupkg.sha512"
+    },
+    "xunit.extensibility.core/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yKZKm/8QNZnBnGZFD9SewkllHBiK0DThybQD/G4PiAmQjKtEZyHi6ET70QPU9KtSMJGRYS6Syk7EyR2EVDU4Kg==",
+      "path": "xunit.extensibility.core/2.4.1",
+      "hashPath": "xunit.extensibility.core.2.4.1.nupkg.sha512"
+    },
     "GuessTheNumber.Classes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "GuessTheNumber.Contracts/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "GuessTheNumber.Externals/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

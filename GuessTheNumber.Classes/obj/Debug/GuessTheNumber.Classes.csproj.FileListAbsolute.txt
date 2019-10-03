@@ -1,9 +1,0 @@
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\bin\Debug\GuessTheNumber.Classes.dll
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\bin\Debug\GuessTheNumber.Classes.pdb
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\obj\Debug\GuessTheNumber.Classes.csprojAssemblyReference.cache
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\obj\Debug\GuessTheNumber.Classes.csproj.CoreCompileInputs.cache
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\obj\Debug\GuessTheNumber.Classes.csproj.CopyComplete
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\obj\Debug\GuessTheNumber.Classes.dll
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\obj\Debug\GuessTheNumber.Classes.pdb
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\bin\Debug\GuessTheNumber.Contracts.dll
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Classes\bin\Debug\GuessTheNumber.Contracts.pdb

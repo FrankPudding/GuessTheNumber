@@ -1,9 +1,0 @@
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\bin\Debug\GuessTheNumber.Externals.dll
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\bin\Debug\GuessTheNumber.Externals.pdb
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\obj\Debug\GuessTheNumber.Externals.csproj.CoreCompileInputs.cache
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\obj\Debug\GuessTheNumber.Externals.dll
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\obj\Debug\GuessTheNumber.Externals.pdb
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\bin\Debug\GuessTheNumber.Contracts.dll
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\bin\Debug\GuessTheNumber.Contracts.pdb
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\obj\Debug\GuessTheNumber.Externals.csprojAssemblyReference.cache
-C:\Users\Rory\source\repos\GuessTheNumber\GuessTheNumber.Externals\obj\Debug\GuessTheNumber.Externals.csproj.CopyComplete

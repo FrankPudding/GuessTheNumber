@@ -58,7 +58,7 @@ namespace GuessTheNumber.Tests
             var guess = new Guess(target, target, 0);
             var guessEvaluator = new GuessEvaluator();
 
-            Assert.True(guessEvaluator.IsCorrect(guess.GuessNumber, guess.Target));
+            Assert.True(guessEvaluator.IsCorrect(guess));
         }
 
         // tests for guessevaluator and guessvalidator - done

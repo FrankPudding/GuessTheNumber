@@ -1,26 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GuessTheNumber.Classes
+﻿namespace GuessTheNumber.Classes
 {
     public class GuessEvaluator
     {
-        public bool IsCorrect(int guess, int target)
+        public bool IsCorrect(Guess guess)
         {
-            return guess == target;
+            return guess.GuessNumber == guess.Target;
         }
 
-        public bool IsTooHigh(int guess, int target)
+        public bool IsTooHigh(Guess guess)
         {
-            return guess > target;
+            return guess.GuessNumber > guess.Target;
         }
 
-        public bool IsClose(int guess, int target)
+        public bool IsClose(Guess guess)
         {
-            return guess - target < 10 && target - guess < 10;
+            return guess.GuessNumber - guess.Target < 10 && guess.Target - guess.GuessNumber < 10;
         }
     }
 }

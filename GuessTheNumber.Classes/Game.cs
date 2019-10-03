@@ -40,7 +40,7 @@ namespace GuessTheNumber.Classes
                 //_messageWriter.WriteLine(currentGuess.Target.ToString());
 
                 // Keep looping until guess is correct
-                while (!_guessEvaluator.IsCorrect(currentGuess.GuessNumber, currentGuess.Target))
+                while (!_guessEvaluator.IsCorrect(currentGuess))
                 {
 
                     var input = _userInputReader.UserInput();
@@ -56,21 +56,21 @@ namespace GuessTheNumber.Classes
                     currentGuess.UpdateGuess(newGuessNumber);
 
                     // Evaluate whether guess is correct
-                    if(_guessEvaluator.IsCorrect(currentGuess.GuessNumber, currentGuess.Target))
+                    if(_guessEvaluator.IsCorrect(currentGuess))
                     {
                         _messageWriter.WriteMessage(_messageProvider.EvaluatorCorrect(currentGuess.NumberOfGuesses), ConsoleColor.Green);
                     }
 
                     // Evaluate whether guess is too high
-                    else if(_guessEvaluator.IsTooHigh(currentGuess.GuessNumber, currentGuess.Target))
+                    else if(_guessEvaluator.IsTooHigh(currentGuess))
                     {
-                        _messageWriter.WriteMessage(_messageProvider.EvaluatorTooHigh(_guessEvaluator.IsClose(currentGuess.GuessNumber, currentGuess.Target)));
+                        _messageWriter.WriteMessage(_messageProvider.EvaluatorTooHigh(_guessEvaluator.IsClose(currentGuess)));
                     }
 
                     // Guess must be too low
                     else
                     {
-                        _messageWriter.WriteMessage(_messageProvider.EvaluatorTooLow(_guessEvaluator.IsClose(currentGuess.GuessNumber, currentGuess.Target)));
+                        _messageWriter.WriteMessage(_messageProvider.EvaluatorTooLow(_guessEvaluator.IsClose(currentGuess)));
                     }
                 }
 

@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber.Contracts", "GuessTheNumber.Contracts\GuessTheNumber.Contracts.csproj", "{A511EB56-EE97-4215-875D-73B37ADB4ABE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumberTests", "GuessTheNumberTests\GuessTheNumberTests.csproj", "{590284F8-080E-4AEE-A4C1-5BE84C6D2D55}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber.Classes", "GuessTheNumber.Classes\GuessTheNumber.Classes.csproj", "{F07B1972-F5DC-43A0-A3A3-AAB12005EC6D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumberConsoleApp", "GuessTheNumberConsoleApp\GuessTheNumberConsoleApp.csproj", "{430659E8-EC69-48D2-914F-8C6D2BBBB285}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber.Externals", "GuessTheNumber.Externals\GuessTheNumber.Externals.csproj", "{FA91597B-DEA4-4D17-A092-42C29B852539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber.Tests", "GuessTheNumber.Tests\GuessTheNumber.Tests.csproj", "{D601DF85-AF90-439A-B272-57DAB45E30F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		{A511EB56-EE97-4215-875D-73B37ADB4ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A511EB56-EE97-4215-875D-73B37ADB4ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A511EB56-EE97-4215-875D-73B37ADB4ABE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{590284F8-080E-4AEE-A4C1-5BE84C6D2D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{590284F8-080E-4AEE-A4C1-5BE84C6D2D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{590284F8-080E-4AEE-A4C1-5BE84C6D2D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{590284F8-080E-4AEE-A4C1-5BE84C6D2D55}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F07B1972-F5DC-43A0-A3A3-AAB12005EC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F07B1972-F5DC-43A0-A3A3-AAB12005EC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F07B1972-F5DC-43A0-A3A3-AAB12005EC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{FA91597B-DEA4-4D17-A092-42C29B852539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA91597B-DEA4-4D17-A092-42C29B852539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA91597B-DEA4-4D17-A092-42C29B852539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D601DF85-AF90-439A-B272-57DAB45E30F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D601DF85-AF90-439A-B272-57DAB45E30F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D601DF85-AF90-439A-B272-57DAB45E30F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D601DF85-AF90-439A-B272-57DAB45E30F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
